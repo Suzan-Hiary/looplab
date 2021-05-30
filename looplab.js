@@ -16,18 +16,18 @@ var starRating = prompt ("What star rating would you give, 1-5?");
 //if the starRating equal 1 loop again
 while (starRating==1){
   //consol.log('inside the while loop');
-  //break;
+  
   starRating=prompt("please Give us star rating !");}
   //if the starRating equal 2 loop again
 while (starRating==2){
   //consol.log('inside the while loop');
-  //break;
+  
   starRating=prompt("please Give us star rating !");
 }
 //if the starRating equal 0 loop again
 while (starRating==0){
   //consol.log('inside the while loop');
-  //break;
+  
   starRating=prompt("please Give us star rating !"); }
  
 
