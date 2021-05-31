@@ -33,16 +33,12 @@ while (starRating==0){
 
 //images loop
 // var c;
+//var k ;
 c = prompt ("How many kids do you have?");
+for(k=1 ; k <= c ; k++){ document.write ('<img src="https://img.freepik.com/free-photo/newborn-toddler-boy-laughing-bed_115594-1502.jpg?size=626&ext=jpg&ga=GA1.2.1983713001.1615680000" />');}
+//brek ; 
  
-  if (c==1 ){document.write('<img src="https://img.freepik.com/free-photo/newborn-toddler-boy-laughing-bed_115594-1502.jpg?size=626&ext=jpg&ga=GA1.2.1983713001.1615680000" />');} ;  
-  //break;
   
-  if(c==2){for(c==0;c<=2;c--){document.write('<img src="https://img.freepik.com/free-photo/newborn-toddler-boy-laughing-bed_115594-1502.jpg?size=626&ext=jpg&ga=GA1.2.1983713001.1615680000" />'); } } ;
-//break;
-   if(c==3){for(c==0;c<=3;c--){document.write('<img src="https://img.freepik.com/free-photo/newborn-toddler-boy-laughing-bed_115594-1502.jpg?size=626&ext=jpg&ga=GA1.2.1983713001.1615680000" />'); };} 
-//break;
-  if(c==4){for(c==0;c<=4;c--){document.write('<img src="https://img.freepik.com/free-photo/newborn-toddler-boy-laughing-bed_115594-1502.jpg?size=626&ext=jpg&ga=GA1.2.1983713001.1615680000" />'); };}  ;
 
 var userAge = prompt('please enter your Age ?')
 //if(userName == 'Suzan' && userAge == 25) { 
